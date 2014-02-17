@@ -1,4 +1,4 @@
-sampleRasters
+Plugin QGIS Sample Rasters
 =============
 
 Plugin QGIS Sample Rasters
